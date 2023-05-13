@@ -7,7 +7,7 @@ The API uses Joi for input validation. The name field of the movie genre is requ
 
 # Installation
 Clone this repository to your local machine:
-git clone https://github.com/MROMER444/movie-genres-api.git
+git clone https://github.com/MROMER444/Moviee-Genres-API
 Navigate to the project directory:
 cd movie-genres-api
 Install the dependencies:
