@@ -59,7 +59,7 @@ app.put('/api/genres/:id' , (req , res) => {
     }
 });
 
-//delete film
+//delete film (ID)
 app.delete('/api/genres/:id' , (req , res) => {
     const film = genres.find(current_film => current_film.id === parseInt(req.params.id));
     if(!film){
